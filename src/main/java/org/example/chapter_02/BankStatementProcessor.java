@@ -1,7 +1,6 @@
-package org.example;
+package org.example.chapter_02;
 
 import java.time.Month;
-import java.util.ArrayList;
 import java.util.List;
 
 public class BankStatementProcessor {

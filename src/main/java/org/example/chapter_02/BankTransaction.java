@@ -1,4 +1,4 @@
-package org.example;
+package org.example.chapter_02;
 
 import java.time.LocalDate;
 import java.util.Objects;
